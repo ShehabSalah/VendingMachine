@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.flapkap.challenge.ProductControllerTest
+-------------------------------------------------------------------------------
+Tests run: 41, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.225 s - in com.flapkap.challenge.ProductControllerTest
